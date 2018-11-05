@@ -1,0 +1,22 @@
+; This file is maintained by HCW. Do not modify this file directly.
+
+[OPTIONS]
+LCID=0x419 0x0 0x0 ; Русский
+REPORT=Yes
+HLP=Linguist.hlp
+
+[FILES]
+Руководство по использованию2.rtf
+
+[MAP]
+IDH_0=0
+IDH_1=1
+IDH_2=2
+IDH_3=3
+IDH_4=4
+IDH_5=5
+IDH_6=6
+start=999
+
+[WINDOWS]
+main="",(72,18,876,959),27904,(r16771515),(r8404992),f3; LINGUIST 2002 LE
